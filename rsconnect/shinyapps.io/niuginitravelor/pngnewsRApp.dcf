@@ -1,0 +1,12 @@
+name: pngnewsRApp
+title: pngnewsRApp
+username: niuginitravelor
+account: niuginitravelor
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9645628
+bundleId: 7593485
+url: https://niuginitravelor.shinyapps.io/pngnewsRApp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
